@@ -1,6 +1,6 @@
 # ICOS
 
-Source Code of 'ICOS: Efficient and Highly Robust Rotation Search and Point Cloud Registration using Compatible Structures'
+Source Code of 'ICOS: Efficient and Highly Robust Rotation Search and Point Cloud Registration with Correspondences'
 
 All copyrights by Lei Sun (e-mail: leisunjames@126.com)
 
